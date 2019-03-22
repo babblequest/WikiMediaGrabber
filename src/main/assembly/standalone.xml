@@ -1,0 +1,3 @@
+<descriptors>
+    <descriptor>src/main/assembly/standalone.xml</descriptor>
+</descriptors>
